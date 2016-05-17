@@ -3,6 +3,9 @@ td-cards {
 }
 td-card {
   display: block;
+  left: 0;
+  top: 0;
+  right: 0;
 }
 td-card img {
   max-width: 100%;
